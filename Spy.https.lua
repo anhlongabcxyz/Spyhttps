@@ -14,7 +14,7 @@ do
     end
 end
 
-local VERSION = "v2.0"
+local VERSION = "v1.0"
 local GAME = game
 local genv = (getgenv and getgenv()) or _G
 
