@@ -1,5 +1,3 @@
-print("Hi! its me ServerDead :D (Or ServerSadzz my username from back in the day...)")
-
 local Options = {
     SaveLogs = false,
     MaxEntries = 150,
